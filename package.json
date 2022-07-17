@@ -51,5 +51,8 @@
   "bugs": {
     "url": "https://github.com/owaisanwar/test-deploy/issues"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "homepage": "https://github.com/owaisanwar/test-deploy#readme"
 }
